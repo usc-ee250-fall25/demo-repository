@@ -7,3 +7,4 @@ The repo includes an `index.html` file (so it can render a web page), and a CSS 
 Add your Name to the next new line below:
 
 Holtham, Asher
+Kim, Minjun
