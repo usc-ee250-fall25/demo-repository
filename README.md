@@ -19,3 +19,5 @@ Betancourt, Cecilia
 Bhatia, Ardaan
 
 Xu，Randy
+
+Frederic, Alex
