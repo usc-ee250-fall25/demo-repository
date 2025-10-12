@@ -23,3 +23,5 @@ Xu，Randy
 Frederic, Alex
 
 Song, Yifan
+
+Shi, Stephanie
