@@ -25,3 +25,5 @@ Frederic, Alex
 Song, Yifan
 
 Shi, Stephanie
+
+George, Leyaa
