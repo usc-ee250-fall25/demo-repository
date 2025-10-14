@@ -39,3 +39,5 @@ Larson Xue
 Lee, Ryan
 
 Yi, Lai
+
+Vo, Nelson
