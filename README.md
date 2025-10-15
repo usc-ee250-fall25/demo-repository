@@ -50,3 +50,6 @@ Sun, Jack
 
 Li, Jiwen
 Fan, Xinsong (Robert)
+
+Le, Ted
+Velarde, Michael
