@@ -51,6 +51,10 @@ Sun, Jack
 Li, Jiwen
 Fan, Xinsong (Robert)
 
+<<<<<<< HEAD
 Le, Ted
 
 Velarde, Michael
+=======
+Kim, Christopher
+>>>>>>> 34a44ae (Christopher Kim)
