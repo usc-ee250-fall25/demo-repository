@@ -68,3 +68,7 @@ Huang, Jun Rui (Eric)
 Rodriguez, Dave
 
 Rochlani, Kyna
+
+Martin, Jaime
+
+Arias, Paula
