@@ -59,7 +59,10 @@ Wu, Jincheng
 Sun, Jack
 
 Li, Jiwen
+
 Fan, Xinsong (Robert)
+
+Kim, Christopher
 
 Huynh, Brianna
  
@@ -76,3 +79,7 @@ Huang, Jun Rui (Eric)
 Rodriguez, Dave
 
 Rochlani, Kyna
+
+Martin, Jaime
+
+Arias, Paula
